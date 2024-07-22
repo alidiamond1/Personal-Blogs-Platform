@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/Layout'
 import { Link } from 'react-router-dom'
-import timeAgo from '../utils/timeAgo'
+import timeAgo from '../utilis/timeAgo'
 
 
 export default function Dashboard() {
