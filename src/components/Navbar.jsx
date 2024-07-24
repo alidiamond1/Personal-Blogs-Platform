@@ -11,7 +11,7 @@ export default function Navbar() {
                         {/* Website Logo */}
                         <Link to="/" className="flex items-center py-4 px-2">
                             <img src={viteLogo} alt="Logo" className="h-8 w-8 mr-2" />
-                            <span className="font-semibold text-gray-500 text-lg">BlogWithLocalStorage</span>
+                            <span className="font-semibold text-gray-500 text-lg">Alidiamond</span>
                         </Link>
                     </div>
                     {/* Primary Navbar items */}
