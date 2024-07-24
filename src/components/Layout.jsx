@@ -1,5 +1,5 @@
 import React from 'react'
-import Navber from './Navber'
+import Navber from './Navbar'
 import Footer from './Footer'
 
 export default function Layout({children}) {
