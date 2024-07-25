@@ -1,4 +1,4 @@
-import { Navigate, Route, Routes } from "react-router-dom"
+import { Navigate, Route, Routes, } from "react-router-dom"
 import Dashboard from "./pages/Dashboard"
 import Login from "./pages/Login"
 import Signup from "./pages/Signup"
@@ -16,6 +16,7 @@ function App() {
   const users = JSON.parse(localStorage.getItem('users')) || []
   const user = users.find(user => user.isLogin);
   return (
+    
     <Routes>
       <Route path="/" element={<Dashboard />} />
       <Route path="/login" element={!user ? <Login /> : <Navigate to={`/`} />} />

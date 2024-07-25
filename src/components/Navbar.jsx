@@ -27,7 +27,7 @@ export default function Navber() {
                             <div>
                                 {/* Website Logo */}
                                 <Link to="/" className="flex items-center py-4 px-2">
-                                    <img src="/public/Alidiamond.svg" alt="Logo" className="h-8 w-8 mr-2" />
+                                    <img src="/Alidiamond.svg" alt="Logo" className="h-8 w-8 mr-2" />
                                     <span className="font-semibold text-gray-500 text-lg">Alidiamond</span>
                                 </Link>
                             </div>
