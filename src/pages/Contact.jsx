@@ -13,9 +13,8 @@ export default function Contact() {
             <div className="flex justify-center items-center">
                 <form action="https://api.web3forms.com/submit" method="POST">
                 <input type="hidden" name="access_key" value={import.meta.env.VITE_WEB3FORM}/>
-                <input type="hidden" name="subject" value="Contact From Abdur Rahim"/>
-                {/* <input type="hidden" name="redirect" value="https://abdurrahim.netlify.app/"/> */}
-                {/* <input type="hidden" name="redirect" value="https://react-blog-localstorage.vercel.app/sucess" /> */}
+                <input type="hidden" name="subject" value="Contact From Ali Nor"/>
+                
                     <div className="w-96">
                         <div className="flex flex-col mb-2">
                             <label className="text-gray-700">Name</label>
