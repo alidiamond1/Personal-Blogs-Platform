@@ -9,12 +9,5 @@ This is a simple project built using React, Vite, Tailwind CSS, and localStorage
 To get started with this project, follow these steps:
 
 1. **Clone this repository**
+   ```bash
    git clone https://github.com/AbdurRaahimm/react-blog-localstorage.git
-
-2. **Run The Essential Dependencies**
-     npm install
-3.  **Start the development server**
-     npm run dev
-4. **Build the project**
-     npm run build
-
