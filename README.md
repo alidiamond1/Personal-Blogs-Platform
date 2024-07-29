@@ -1,4 +1,4 @@
-## Personal Blog Platform with LocalStorage
+#**Personal Blog Platform with LocalStorage**
 
 **Description:**
 
