@@ -4,7 +4,7 @@
 
 This project is a simple yet functional blog website built with React, Vite, and Tailwind CSS. It demonstrates basic authentication and blog management using localStorage for data persistence.
 
-This project provides a foundation for learning about building web applications with modern technologies. You can create, read, update, and delete blog posts, log in and out, and manage your profile. All data is stored locally using localStorage, 
+This project provides a foundation for learning about building web applications with modern technologies. You can create, read, update, and delete blog posts, log in and out, and manage your profile. All data is stored locally using localStorage.
 
 
 # **Getting Started:**
