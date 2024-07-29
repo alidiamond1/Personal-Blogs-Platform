@@ -53,7 +53,7 @@ This project provides a foundation for learning about building web applications 
     * Edit user profile with image upload
 
 
-**Tools:**
+# **Tools:**
 
 * **React:** JavaScript library for building user interfaces
 * **Vite:** Fast and efficient build tool for frontend projects
