@@ -51,11 +51,6 @@ This project provides a foundation for learning about building web applications 
     * Add/Edit blog posts with images
     * Edit user profile with image upload
 
-**New Features:**
-   * Image add in Blogs
-   * Image add in Profile
-
-   
 
 **Tools:**
 
