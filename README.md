@@ -1,6 +1,6 @@
 ## Personal Blog Platform with LocalStorage
 
-##**Description:**
+**Description:**
 
 This project is a simple yet functional blog website built with React, Vite, and Tailwind CSS. It demonstrates basic authentication and blog management using localStorage for data persistence.
 
