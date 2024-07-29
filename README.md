@@ -37,7 +37,7 @@ This project provides a foundation for learning about building web applications 
    ```
    This will serve the built website locally.
 
-**Features:**
+# **Features:**
 
 * **Authentication:**
     * Login and logout functionality
