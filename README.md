@@ -6,7 +6,8 @@ This project is a simple yet functional blog website built with React, Vite, and
 
 This project provides a foundation for learning about building web applications with modern technologies. You can create, read, update, and delete blog posts, log in and out, and manage your profile. All data is stored locally using localStorage, ensuring a seamless experience even without an internet connection.
 
-**Getting Started:**
+
+# **Getting Started:**
 
 1. **Clone the Repository:**
    ```bash
