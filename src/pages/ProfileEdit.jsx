@@ -36,7 +36,7 @@ export default function ProfileEdit() {
             <div className='bg-gray-100 py-10 flex justify-center items-center'>
                 <div className="bg-white p-10 rounded-lg">
                     <div className="text-center text-3xl text-gray-700 mb-2">
-                        Edit Profile {id}
+                        Edit Profile 
                     </div>
                     <div className="flex justify-center items-center">
                         <form onSubmit={handleProfileUpdate} >
