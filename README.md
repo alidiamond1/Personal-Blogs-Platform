@@ -63,5 +63,7 @@ This project provides a foundation for learning about building web applications 
 
 [Live Demo](https://personal-blogs-platform.vercel.app) 
 
+## Connect on Social Media
+
 
 
