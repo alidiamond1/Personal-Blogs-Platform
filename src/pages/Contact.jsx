@@ -14,6 +14,7 @@ export default function Contact() {
                 <form action="https://api.web3forms.com/submit" method="POST">
                 <input type="hidden" name="access_key" value={import.meta.env.VITE_WEB3FORM}/>
                 <input type="hidden" name="subject" value="Contact From Ali Nor"/>
+                <input type="hidden" name="redirect" value="https://personal-blogs-platform.vercel.app/sucess" />
                 
                     <div className="w-96">
                         <div className="flex flex-col mb-2">
