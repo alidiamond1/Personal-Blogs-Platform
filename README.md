@@ -65,5 +65,7 @@ This project provides a foundation for learning about building web applications 
 
 ## Connect on Social Media
 
+* [Twitter](https://x.com/aliyare1113)
+
 
 
