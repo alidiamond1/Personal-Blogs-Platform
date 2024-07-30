@@ -65,7 +65,10 @@ This project provides a foundation for learning about building web applications 
 
 ## Connect on Social Media
 
+* [GitHub](https://github.com/alidiamond1)
 * [Twitter](https://x.com/aliyare1113)
+* [LinkedIn](https://linkedin.com/alidiamond)
+* [Facebook](https://fb.com/alidiamond10)
 
 
 
