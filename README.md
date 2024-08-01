@@ -68,7 +68,7 @@ This project provides a foundation for learning about building web applications 
 * [GitHub](https://github.com/alidiamond1)
 * [Twitter](https://x.com/aliyare1113)
 * [LinkedIn](https://linkedin.com/alidiamond)
-* [Facebook](https://fb.com/alidiamond10)
+* [Facebook](https://fb.com/AliDiamond)
 
 
 
