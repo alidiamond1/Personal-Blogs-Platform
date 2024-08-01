@@ -14,7 +14,7 @@ export default function About() {
             <button className='bg-green-500 text-white px-5 py-2 rounded-lg capitalize'>get in touch</button>
             <div className="flex space-x-2">
 
-              <a href="https://fb.com/alidiamond10">
+              <a href="https://fb.com/Ali Diamond">
               <svg className='w-8 bg-green-500 text-white rounded-full p-2' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"></path><path d="M14 13.5H16.5L17.5 9.5H14V7.5C14 6.47062 14 5.5 16 5.5H17.5V2.1401C17.1743 2.09685 15.943 2 14.6429 2C11.9284 2 10 3.65686 10 6.69971V9.5H7V13.5H10V22H14V13.5Z"></path></svg>
               </a>
               <a href="https://x.com/aliyare1113">
